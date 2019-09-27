@@ -1,0 +1,7 @@
+com\mycompany\tekmenu\beans\MenuBean.class
+com\mycompany\tekmenu\Enteties\Meal.class
+com\mycompany\tekmenu\Enteties\Menu.class
+com\mycompany\tekmenu\JAXRSConfiguration.class
+com\mycompany\tekmenu\resources\JavaEE8Resource.class
+com\mycompany\tekmenu\ConnectionFactory.class
+com\mycompany\tekmenu\resources\MenuResource.class
